@@ -2,7 +2,6 @@ import React from "react";
 import { AiOutlineBook } from "react-icons/ai";
 
 const SwapByBooks = ({ books }) => {
-  // If there's only one book, display the single book view
   if (books.length === 1) {
     const book = books[0];
     return (
@@ -24,7 +23,6 @@ const SwapByBooks = ({ books }) => {
     );
   }
 
-  // If there are multiple books, display the multiple books view
   return (
     <div className="exchange-condition-container">
       <div className="flex gap-4">
