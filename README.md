@@ -60,4 +60,4 @@ The app fetches data from the KirjaSwappi API:
 
 ## Deployment
 
-This project is deployed on Vercel. Check out the live demo at [https://kirjaswappi-book-details.vercel.app](https://kirjaswappi-book-details.vercel.app).
+This project is deployed on Vercel. Check out the live demo at [https://kirja-swappi.vercel.app](https://kirja-swappi.vercel.app).
