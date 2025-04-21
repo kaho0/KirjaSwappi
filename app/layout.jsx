@@ -11,7 +11,6 @@ const poppins = Poppins({
 export const metadata = {
   title: "KirjaSwappi - Book Details",
   description: "A book swapping platform",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({ children }) {
